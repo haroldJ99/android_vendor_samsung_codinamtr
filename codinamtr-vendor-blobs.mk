@@ -238,6 +238,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/codinamtr/proprietary/lib/libste_ens_video_common.so:codinamtr/lib/libste_ens_video_common.so \
     vendor/samsung/codinamtr/proprietary/lib/libste_ext_ens_image_common.so:codinamtr/lib/libste_ext_ens_image_common.so \
     vendor/samsung/codinamtr/proprietary/lib/libste_omxil-interface.so:codinamtr/lib/libste_omxil-interface.so \
+    vendor/samsung/codinamtr/proprietary/lib/libstagefright_ste_aacdec.so:codinamtr/lib/libstagefright_ste_aacdec.so \
+    vendor/samsung/codinamtr/proprietary/lib/libstagefright_ste_mp3decode.so:codinamtr/lib/libstagefright_ste_mp3decode.so \
     vendor/samsung/codinamtr/proprietary/lib/ste_omxcomponents/libste_exif_mixer.so:codinamtr/lib/ste_omxcomponents/libste_exif_mixer.so \
     vendor/samsung/codinamtr/proprietary/lib/ste_omxcomponents/libste_dec_vc1.so:codinamtr/lib/ste_omxcomponents/libste_dec_vc1.so \
     vendor/samsung/codinamtr/proprietary/lib/ste_omxcomponents/libste_dec_amrwb.so:codinamtr/lib/ste_omxcomponents/libste_dec_amrwb.so \
